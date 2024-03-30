@@ -6,7 +6,6 @@
         ".gitignore": true,
         "Gemfile": true,
         "Gemfile.lock": true,
-        "Makefile": true,
-        "README.md": true
+        "Makefile": true
     }
 }
