@@ -18,7 +18,7 @@ I am a energetic and self-motivated undergraduate with strong interpersonal skil
 <hr>
 <div style="height: 10px;"></div>
 
-<div style="display: flex; flex-direction: row;">
+<div align="left" style="display: flex; flex-direction: row;">
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30px" />
     <div style="width: 20px;"></div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30px"/>
