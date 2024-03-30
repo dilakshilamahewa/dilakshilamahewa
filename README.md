@@ -11,3 +11,5 @@ I am a energetic and self-motivated undergraduate with strong interpersonal skil
 - 😄 Pronouns: She/Her
 - Website: https://dilakshi.pages.dev
 <!-- - ⚡ Fun fact: ... -->
+<img src="https://raw.githubusercontent.com/dilakshilamahewa/dilakshilamahewa/dev/assets/img/bg.gif">
+https://raw.githubusercontent.com/dilakshilamahewa/dilakshilamahewa/dev/assets/img/bg.gif
