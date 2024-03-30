@@ -20,39 +20,39 @@ I am a energetic and self-motivated undergraduate with strong interpersonal skil
 
 <p float="left">
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30px" />
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30px" />
-    <img src="" />
+    &nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="30px" />
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30px"height="20" />
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30px"/>
-    <img src="" />
+    &nbsp;
 </p>
