@@ -11,7 +11,7 @@ I am a energetic and self-motivated undergraduate with strong interpersonal skil
 - 🌱 I’m currently learning Software QA & Software Development
 - 📫 Reach me: dilakshilamahewa@gmail.com
 - 😄 Pronouns: She/Her
-- 📹 Learning in public on <a href="https://dilakshi.pages.dev">dilakshi.dev</a>
+- 📹 Learning in public on <a href="https://dilakshi.me/">dilakshi.me</a>
 - 💼 Sharing updates on <a href=" linkedin.com/in/dilakshilamahewa/">LinkedIn</a>
 
 <div style="height: 10px;"></div>
