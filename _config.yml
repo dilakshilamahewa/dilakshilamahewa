@@ -1,9 +1,0 @@
-title: Dilakshi Lamahewa
-email: dilakshilamahewa@gmail.com
-baseurl: ""
-url: ""
-
-# CONFIG (BUILD)
-theme: minima
-plugins:
-  - jekyll-feed
