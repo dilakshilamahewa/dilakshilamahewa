@@ -122,11 +122,11 @@ body {
 
 }
 .profile-page h1 {
-    font-size: 2.7rem;
+    font-size: 2.1rem;
     line-height: 1;
 }
 .profile-page h3{
-     font-size: 1.5rem;
+     font-size: 1.3rem;
      color:var(--main-color);
 }
 
@@ -137,12 +137,12 @@ body {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width:2.5rem;
-    height:2.5rem;
+    width:2.3rem;
+    height:2.3rem;
     background:transparent;
     border:var(--border);
     border-radius: 50%;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color:var(--main-color);
     margin: 0.2rem;
     transition: .5s;
