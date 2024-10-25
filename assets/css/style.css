@@ -376,7 +376,7 @@ body {
   border-radius: 1.5rem;
 }
 .portfolio-box .img-box img{
-    width:100%;
+    width:50%;
     object-fit: cover;
     transition: .5s ease;
 }
