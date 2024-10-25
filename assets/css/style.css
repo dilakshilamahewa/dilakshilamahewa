@@ -369,9 +369,9 @@ body {
 }
 .portfolio-box .img-box{
   display: flex;
-  width:100%;
+  width:50%;
   height:15rem;
-  background:red;
+  background:none;
   border:var(--border);
   border-radius: 1.5rem;
 }
