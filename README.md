@@ -6,20 +6,19 @@
 
 <br>
 
-IT undergraduate who enjoys breaking things (on purpose) and building them better. 🐞➡️✅
+IT graduate turned working professional, and I still enjoy breaking things (on purpose) and building them better. 🐞➡️✅
 
-I'm drawn to the space where **software development meets quality assurance**: writing code that works, then testing it until it can't fail. I learn best by building real projects, so most of what you'll find here started as "let me try this" and turned into something useful.
-
-I'm currently looking for an **internship in software QA or development**, where I can learn from a great team and contribute from day one.
+I'm a **[Job Title]** at **[Company Name]**, where I work on **[what you do, e.g. testing web applications, building features, automating test suites]**. I care about writing code that works and testing it until it can't fail, and I'm always picking up something new along the way.
 
 ### ⚡ Quick facts
-- 🌱 Currently learning: Software QA, test automation & full-stack development
-- 🔭 Working on: projects that combine clean code with solid testing
-- 🤝 Open to: internships, collaborations, and good conversations about tech
+- 💼 Currently working as: [Job Title] at [Company Name]
+- 🌱 Currently learning: [e.g. test automation, CI/CD, advanced backend development]
+- 🔭 Side projects: [what you're building outside work, or remove this line]
+- 🤝 Open to: collaborations, mentoring, and good conversations about tech
 - 📫 Reach me: [me@dilakshi.me](mailto:me@dilakshi.me)
 - 😄 Pronouns: She/Her
 - 📹 Learning in public: <a href="https://dilakshi.me/">dilakshi.me</a>
-- 💼 Let's connect: <a href="https://linkedin.com/in/dilakshilamahewa/">LinkedIn</a>
+- 🔗 Let's connect: <a href="https://linkedin.com/in/dilakshilamahewa/">LinkedIn</a>
 
 <div style="height: 10px;"></div>
 <hr>
