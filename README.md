@@ -1,29 +1,86 @@
-<h1>Hey 👋 I'm Dilakshi</h1>
+<h1>Hey 👋 I'm Dilakshi!</h1>
 
-<br>
+<p>
+  <img src="https://raw.githubusercontent.com/dilakshilamahewa/dilakshilamahewa/dev/assets/img/bg.gif">
+</p>
 
-<img src="https://raw.githubusercontent.com/dilakshilamahewa/dilakshilamahewa/dev/assets/img/bg.gif">
+<h3>👩‍💻 Associate Application Support Engineer | Cloud & Automation Enthusiast</h3>
 
-<br>
+<p>
+I'm an IT professional with experience in <strong>application support, software development, QA/testing, cloud technologies, and automation</strong>. I enjoy troubleshooting technical issues, working with APIs and cloud services, and finding ways to automate repetitive tasks.
+</p>
 
-IT graduate turned working professional, and I still enjoy breaking things (on purpose) and building them better. 🐞➡️✅
+<p>
+I'm particularly interested in <strong>AWS, Linux, application reliability, DevOps, automation, and AI/LLM technologies</strong>, and I'm continuously learning and improving my technical skills.
+</p>
 
-I'm a **Associate Application Support Engineer** at **eBuilder**, where I work on **[what you do, e.g. testing web applications, building features, automating test suites]**. I care about writing code that works and testing it until it can't fail, and I'm always picking up something new along the way.
+### 🚀 What I'm working on
 
-### ⚡ Quick facts
-- 💼 Currently working as: [Job Title] at [Company Name]
-- 🌱 Currently learning: [e.g. test automation, CI/CD, advanced backend development]
-- 🔭 Side projects: [what you're building outside work, or remove this line]
-- 🤝 Open to: collaborations, mentoring, and good conversations about tech
-- 📫 Reach me: [me@dilakshi.me](mailto:me@dilakshi.me)
-- 😄 Pronouns: She/Her
-- 📹 Learning in public: <a href="https://dilakshi.me/">dilakshi.me</a>
-- 🔗 Let's connect: <a href="https://linkedin.com/in/dilakshilamahewa/">LinkedIn</a>
+* ☁️ Learning and improving my <strong>AWS & Cloud</strong> skills
+* 🐧 Learning <strong>Linux</strong> and system administration
+* 🧪 Working with <strong>Playwright, Cypress & API testing</strong>
+* 🤖 Exploring <strong>automation, Python & n8n</strong>
+* 🧠 Learning about <strong>Prompt Engineering & LLMs</strong>
+* 🔧 Building practical tools and automation projects
 
-<div style="height: 10px;"></div>
-<hr>
-<div style="height: 10px;"></div>
+### 🛠️ Technologies & Tools
 
-### 🛠️ Tech I work with
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+</p>
 
-<!-- keep your existing icons <p> block here -->
+<p>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="35" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="35" />
+  <img src="https://cdn.simpleicons.org/cypress/69D3A7" height="35" />
+  <img src="https://cdn.simpleicons.org/playwright/2EAD33" height="35" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="35" />
+</p>
+
+### 🔧 Areas I Work With
+
+* Application Support & Troubleshooting
+* AWS Lambda & CloudWatch
+* REST APIs & Postman
+* SQL & DynamoDB
+* QA & Automated Testing
+* Python Automation
+* CI/CD & DevOps Practices
+* Linux
+* Jira & ITSM
+* Customer & Technical Support
+
+### 📚 Currently Learning
+
+```text
+AWS & Cloud
+Linux
+DevOps & CI/CD
+Application Reliability
+Prompt Engineering
+LLMs & AI Automation
+```
+
+### 🌐 Connect With Me
+
+* 💼 LinkedIn: <a href="https://linkedin.com/in/dilakshilamahewa/">LinkedIn</a>
+* 🌱 Website: <a href="https://dilakshi.me/">dilakshi.me</a>
+* 📧 Email: [me@dilakshi.me](mailto:me@dilakshi.me)
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. Always improving. 🚀</i>
+</p>
