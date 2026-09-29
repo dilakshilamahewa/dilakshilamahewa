@@ -8,7 +8,7 @@
 
 IT graduate turned working professional, and I still enjoy breaking things (on purpose) and building them better. 🐞➡️✅
 
-I'm a **[Job Title]** at **[Company Name]**, where I work on **[what you do, e.g. testing web applications, building features, automating test suites]**. I care about writing code that works and testing it until it can't fail, and I'm always picking up something new along the way.
+I'm a **Associate Application Support Engineer** at **eBuilder**, where I work on **[what you do, e.g. testing web applications, building features, automating test suites]**. I care about writing code that works and testing it until it can't fail, and I'm always picking up something new along the way.
 
 ### ⚡ Quick facts
 - 💼 Currently working as: [Job Title] at [Company Name]
